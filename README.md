@@ -1,5 +1,5 @@
 # Lucky
 
-as editing the file
+editing the file
 
-It's a holddown file in this repository.
+It's a markdown file in this repository.
